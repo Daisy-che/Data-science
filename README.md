@@ -1,3 +1,3 @@
 # Data-science
-Tuples
-Stacks
+Tuple
+wo

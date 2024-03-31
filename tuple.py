@@ -1,8 +1,8 @@
 Fruits=('apple','mango','banana','pineapple')
-#assessing the first elemement
+#accessing the first elemement
 print(Fruits[0])
 
-#assessing the third element
+#accessing the third element
 print(Fruits[2])
 
 #iterate through tuple
