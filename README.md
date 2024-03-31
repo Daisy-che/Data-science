@@ -1,3 +1,8 @@
 # Data-science
 Tuple
-wo
+acessing elements
+concatenation
+iteration
+Stack
+removing elements
+adding elements into elements
