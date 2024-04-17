@@ -1,4 +1,4 @@
-stack=[1,2,3,4,5]
+stack=[]
 #add element to stack
 stack.append(1)
 stack.append(2)
@@ -14,4 +14,8 @@ print(len(stack))
 print(stack[0])
 #accessing element in the stack
 print(stack[3])
+
+languages=["Javascript","Kotlin","Python"]
+for i in languages:
+print(i)
 
