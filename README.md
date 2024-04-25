@@ -9,4 +9,9 @@ Stack is a linear datastructure that follows the last -in-First -out principle.E
 
 A collection of elements  separated by commas and enclosed in parentheses.Tuples are immutable ,it cannot be changed , used to represent fixed collection of items.Accessing element is a tuple is done  using indexing .You can concatenate items in a tuple using + operator.Iterate  over items in a tuple using loops.Checking if an element exist in a tuple using "in" operator.
 
+## Queue 
+
+Is a linear data structure that stores items in a First In  First Out(FIFO)manner.Queue are a implemented using a list and dequeue(), append() and pop() function is used. 
+
+
 
